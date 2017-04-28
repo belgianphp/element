@@ -1,0 +1,6 @@
+# git ignore
+
+*.vim
+tag
+tags
+vendor/

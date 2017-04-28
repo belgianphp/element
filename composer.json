@@ -1,0 +1,14 @@
+{
+    "name": "belgian/element",
+    "authors": [
+        {
+            "name": "Estefanio NS",
+            "email": "estefanions@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Belgian\\Element\\": "Belgian/Element/"
+        }
+    }
+}
